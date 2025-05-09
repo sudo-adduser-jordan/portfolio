@@ -55,6 +55,7 @@ Change the data-theme of `cv.json` and choose one of the colour themes defined i
 | ⚙️  | `build`         | Checks for errors and creates a production build in `./dist/`. |
 | ⚙️  | `preview`       | Local preview at `localhost:4321`                                       |
 
+Wiki: [dev-portfolio](https://deepwiki.com/Smilesharks/dev-portfolio)
 
 CV JSON schema from [**jsonresume.org**](https://jsonresume.org/schema/)
 
