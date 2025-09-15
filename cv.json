@@ -358,7 +358,7 @@
         {
             "name": "Proto Hackers",
             "isActive": true,
-            "description": "A simple task management app to keep track of daily tasks.",
+            "description": "Java protohackers solutions with tests.",
             "url": "https://protohackers.com",
             "github": "https://github.com"
         },
