@@ -350,7 +350,17 @@
     ],
     "projects": [
         {
-            "name": "Personal Portfolio",
+            "name": "Algorithm Visualizer",
+            "isActive": true,
+            "description": "A web application that provides weather information for any location.",
+            "highlights": [
+                "Built with JavaScript and OpenWeatherMap API",
+                "Responsive design"
+            ],
+            "url": "https://weatherapp.com"
+        },
+        {
+            "name": "Console Graphics Engine",
             "isActive": false,
             "description": "A personal portfolio website to showcase my projects and skills.",
             "highlights": [
@@ -361,17 +371,7 @@
             "github": "https://github.com"
         },
         {
-            "name": "Weather App",
-            "isActive": true,
-            "description": "A web application that provides weather information for any location.",
-            "highlights": [
-                "Built with JavaScript and OpenWeatherMap API",
-                "Responsive design"
-            ],
-            "url": "https://weatherapp.com"
-        },
-        {
-            "name": "Task Manager",
+            "name": "Proto Hackers",
             "isActive": true,
             "description": "A simple task management app to keep track of daily tasks.",
             "highlights": [
@@ -382,7 +382,7 @@
             "github": "https://github.com"
         },
         {
-            "name": "E-commerce Site",
+            "name": "Development Environment",
             "isActive": false,
             "description": "An online store built with Next.js and Stripe for payment processing.",
             "highlights": [
