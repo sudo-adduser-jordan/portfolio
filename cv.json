@@ -345,11 +345,7 @@
             "name": "Algorithm Visualizer",
             "isActive": true,
             "description": "A website that allows you to visualize the common sorting and path finding algorithms.",
-            "highlights": [
-                "Built with custom tooling",
-                "Responsive design"
-            ],
-            "url": "https://weatherapp.com",
+            "url": "",
             "github": "https://github.com/sudo-adduser-jordan/algorithm-visualizer"
         },
         {
