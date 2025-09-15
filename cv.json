@@ -345,7 +345,8 @@
             "isActive": true,
             "description": "A website that allows you to visualize the common sorting and path finding algorithms.",
             "url": "",
-            "github": "https://github.com/sudo-adduser-jordan/algorithm-visualizer"
+            "github": "https://github.com/sudo-adduser-jordan/algorithm-visualizer",
+            "skills":[]
         },
         {
             "name": "Console Graphics Engine",

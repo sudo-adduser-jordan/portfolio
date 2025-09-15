@@ -130,6 +130,7 @@ interface Projects {
   highlights: Highlight;
   url: string;
   github?: string;
+  skills: Array<string>;
 }
 
 interface Interests {
