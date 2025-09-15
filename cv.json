@@ -149,7 +149,7 @@
     ],
     "skills": [
 
-            {
+        {
             "name": "Database Management"
         },
         {
@@ -300,16 +300,6 @@
         "React Framework",
         "SSR",
         "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
       ]
     }
 
