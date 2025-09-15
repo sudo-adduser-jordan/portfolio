@@ -29,46 +29,38 @@
             "position": "Contributor",
             "location_type": "Remote",
             "location": "United States",
-            "url": "https://techstartup.com",
+            "url": "https://github.com/webdevcody/code-racer",
             "startDate": "2024-01-01",
-            "endDate": null,
-            "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+            "endDate": "2024-01-01",
+            "summary": "Code Racer is a multiplayer coding game where developers can compete against each other to solve programming challenges in real-time.",
             "highlights": [
-                "Improved website performance by optimizing code"
-            ],
-            "responsibilities": [
-                "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-                "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-                "Participated in code reviews and contributed to improving coding standards within the team."
             ],
             "achievements": [
-                "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+                "582 forks",
+                "700+ stars",
+                "Designed and maintained the main feature of the project.",
+                "Created tasks and issues, cleared blocking issues, reviewed code, merged pull requests, created complex features."
             ],
             "skills": [
+                "GitHub",
+                "Next.js",
                 "React",
-                "Tailwind",
-                "GitHub"
+                "Tailwind"
             ]
         },
         {
             "name": "Runelite",
-            "url": "https://innovativesolutions.com",
+            "url": "https://runelite.net/plugin-hub/show/skull-prevention-reminder",
             "position": "Contributor",
             "location_type": "Remote",
             "location": "United States",
-            "startDate": "2022-06-01",
-            "endDate": "2023-06-01",
-            "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-            "highlights": [
-                "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-            ],
-            "responsibilities": [
-                "Developed and maintained backend services using Python and Django.",
-                "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-                "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-            ],
+            "startDate": "2024-06-01",
+            "endDate": "2024-06-01",
+            "summary": "Java plugin created with Intellij tooling and the Runelite SDK. A visual indicator of skull prevention status.",
             "achievements": [
-                "Successfully implemented a feature that enhanced user authentication, improving security measures."
+                "Active users",
+                "1600+ live installs",
+                "Third party contributions"
             ],
             "skills": [
                 "GitHub"
@@ -76,15 +68,15 @@
         },
         {
             "name": "Bottles",
-            "url": "https://innovativesolutions.com",
+            "url": "https://usebottles.com/app/#eveonline",
             "position": "Contributor",
             "location_type": "Remote",
             "location": "United States",
-            "startDate": "2022-06-01",
-            "endDate": "2022-12-01",
-            "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-            "highlights": [
-                "Completed several client projects successfully"
+            "startDate": "2024-06-01",
+            "endDate": "2024-12-01",
+            "summary": "A small but useful contribution to the official Bottles programs. Eve Online launcher.",
+            "achievements": [
+                "Active users"
             ],
             "skills": [
                 "GitHub"
