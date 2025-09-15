@@ -344,44 +344,34 @@
         {
             "name": "Algorithm Visualizer",
             "isActive": true,
-            "description": "A web application that provides weather information for any location.",
+            "description": "A website that allows you to visualize the common sorting and path finding algorithms.",
             "highlights": [
-                "Built with JavaScript and OpenWeatherMap API",
+                "Built with custom tooling",
                 "Responsive design"
             ],
-            "url": "https://weatherapp.com"
+            "url": "https://weatherapp.com",
+            "github": "https://github.com/sudo-adduser-jordan/algorithm-visualizer"
         },
         {
             "name": "Console Graphics Engine",
             "isActive": false,
-            "description": "A personal portfolio website to showcase my projects and skills.",
-            "highlights": [
-                "Built with React and Tailwind CSS",
-                "Includes a blog and contact form"
-            ],
-            "url": "https://johndoe.dev",
-            "github": "https://github.com"
+            "description": "Console 3D Graphics Engine.",
+            "url": "",
+            "github": "https://github.com/sudo-adduser-jordan/console-graphics-engine"
         },
         {
             "name": "Proto Hackers",
             "isActive": true,
             "description": "A simple task management app to keep track of daily tasks.",
-            "highlights": [
-                "Built with Node.js and MongoDB",
-                "User authentication and CRUD operations"
-            ],
-            "url": "https://taskmanager.com",
+            "url": "https://protohackers.com",
             "github": "https://github.com"
         },
         {
-            "name": "Development Environment",
+            "name": "Desktop Environment",
             "isActive": false,
-            "description": "An online store built with Next.js and Stripe for payment processing.",
-            "highlights": [
-                "Product management and shopping cart functionality",
-                "Secure payment integration"
-            ],
-            "url": "https://ecommerce.com"
+            "description": "My personal desktop configuration.",
+            "url": "",
+            "github": "https://github.com/debian"
         }
     ]
 }
