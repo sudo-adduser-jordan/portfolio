@@ -330,7 +330,7 @@
             "isActive": true,
             "description": "A website that allows you to visualize the common sorting and path finding algorithms.",
             "url": "",
-            "github": "https://github.com/sudo-adduser-jordan/algorithm-visualizer",
+            "github": "https://computer-algorithm-visualizer.vercel.app/",
             "skills":[]
         },
         {
@@ -342,17 +342,17 @@
         },
         {
             "name": "Proto Hackers",
-            "isActive": true,
+            "isActive": false,
             "description": "Java protohackers solutions with tests.",
             "url": "https://protohackers.com",
-            "github": "https://github.com"
+            "github": "https://github.com/sudo-adduser-jordan/protohackers"
         },
         {
             "name": "Desktop Environment",
             "isActive": false,
             "description": "My personal desktop configuration.",
             "url": "",
-            "github": "https://github.com/debian"
+            "github": "https://github.com/gentoo"
         }
     ]
 }
