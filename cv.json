@@ -33,8 +33,7 @@
             "startDate": "2024-01-01",
             "endDate": "2024-01-01",
             "summary": "Code Racer is a multiplayer coding game where developers can compete against each other to solve programming challenges in real-time.",
-            "highlights": [
-            ],
+            "highlights": [],
             "achievements": [
                 "582 forks",
                 "700+ stars",
@@ -84,9 +83,9 @@
     ],
     "volunteer": [
         {
-            "organization": "Local Coding Club",
+            "organization": "organization",
             "position": "Volunteer",
-            "url": "https://codingclub.com/",
+            "url": "https://github.com/",
             "startDate": "2021-01-01",
             "endDate": "2022-01-01",
             "summary": "Helped organize coding workshops and mentored new members.",
@@ -102,17 +101,7 @@
             "area": "Computer Science",
             "studyType": "Bachelor",
             "startDate": "2024-08-01",
-            "endDate": "2025-08-01",
-            "score": "3.8",
-            "courses": [
-                "Introduction to Computer Science",
-                "Introduction to Artificial Intelligence",
-                "Software Quality Assurance",
-                "Java Fundamentals",
-                "Linux Fundamentals",
-                "Data Structures",
-                "Calculus"
-            ]
+            "endDate": "2025-08-01"
         }
     ],
     "certificates": [
@@ -148,180 +137,43 @@
         }
     ],
     "skills": [
+        { "name": "Database Management" },
+        { "name": "Web Development" },
+        { "name": "UI Design" },
+        { "name": "UX Design" },
+        { "name": "Linux Development" },
+        { "name": "Cloud Management" },
+        { "name": "Windows Development" },
+        { "name": "Systems Administration" },
+        { "name": "Source Control" },
+        { "name": "Software Development" },
+        { "name": "Desktop Development" },
+        { "name": "Game Development" },
 
-        {
-            "name": "Database Management"
-        },
-        {
-            "name": "Web Development"
-        },
-        {
-            "name": "UI Design"
-        },
-        {
-            "name": "UX Design"
-        },
-        {
-            "name": "Linux Development"
-        },
-        {
-            "name": "Cloud Management"
-        },
-        {
-            "name": "Windows Development"
-        },
-        {
-            "name": "Systems Administration"
-        },
-        {
-            "name": "Source Control"
-        },
-        {
-            "name": "Software Development"
-        },
-        {
-            "name": "Desktop Development"
-        },
-        {
-            "name": "Game Development"
-        },
-        {
-            "name": "React"
-        },
-        {
-            "name": "Java"
-        },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    }
-
+        { "name": "GitHub" },
+        { "name": "Gitlab" },
+        { "name": "Git" },
+        { "name": "Java" },
+        { "name": "MySQL" },
+        { "name": "Node" },
+        { "name": "JavaScript" },
+        { "name": "TypeScript" },
+        { "name": "React" },
+        { "name": "HTML" },
+        { "name": "CSS" },
+        { "name": "Tailwind" },
+        { "name": "Next" }
     ],
     "languages": [
         {
             "language": "English",
             "fluency": "Native speaker"
-        },
-        {
-            "language": "Spanish",
-            "fluency": "Intermediate"
-        }
-    ],
-    "interests": [
-        {
-            "name": "Technology",
-            "keywords": [
-                "AI",
-                "Blockchain"
-            ]
         }
     ],
     "references": [
         {
-            "name": "Jane Smith",
-            "reference": "Reference…"
+            "name": "x",
+            "reference": "x"
         }
     ],
     "projects": [
@@ -331,7 +183,7 @@
             "description": "A website that allows you to visualize the common sorting and path finding algorithms.",
             "url": "",
             "github": "https://computer-algorithm-visualizer.vercel.app/",
-            "skills":[]
+            "skills": []
         },
         {
             "name": "Console Graphics Engine",
