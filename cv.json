@@ -201,10 +201,10 @@
         },
         {
             "name": "Desktop Environment",
-            "isActive": false,
+            "isActive": true,
             "description": "My personal desktop configuration.",
             "url": "",
-            "github": "https://github.com/gentoo"
+            "github": "https://sudo-adduser-jordan.github.io/gentoox-website"
         }
     ]
 }
