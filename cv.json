@@ -39,6 +39,7 @@
                 "Created tasks and issues, cleared blocking issues, reviewed code, merged pull requests, created complex features."
             ],
             "skills": [
+                "Linux",
                 "Git",
                 "CSS"
             ]
@@ -57,7 +58,8 @@
                 "1600+ live installs"
             ],
             "skills": [
-                "Java"
+                "Java",
+                "InteliJ"
             ]
         },
         {
@@ -167,19 +169,32 @@
         { "name": "Desktop Development" },
         { "name": "Game Development" },
 
+        { "name": "Gentoo" },
+        { "name": "Vscode" },
+        { "name": "InteliJ" },
         { "name": "GitHub" },
         { "name": "Gitlab" },
         { "name": "Git" },
+        { "name": "Go" },
+        { "name": "Python" },
+        { "name": "C98" },
+        { "name": "CPP17" },
         { "name": "Java" },
+        { "name": "Spring" },
+        { "name": "Gradle" },
+        { "name": "Maven" },
+        { "name": "Postgres" },
         { "name": "MySQL" },
         { "name": "Node" },
+        { "name": "HTML" },
+        { "name": "CSS" },
         { "name": "JavaScript" },
         { "name": "TypeScript" },
         { "name": "React" },
-        { "name": "HTML" },
-        { "name": "CSS" },
         { "name": "Tailwind" },
-        { "name": "Next" }
+        { "name": "Next" },
+        { "name": "Linux" },
+        { "name": "Windows" }
     ],
     "languages": [
         {
