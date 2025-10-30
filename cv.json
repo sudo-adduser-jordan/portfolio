@@ -32,7 +32,7 @@
             "url": "https://linuxthemes.org",
             "startDate": "2025-02-01",
             "endDate": "2025-02-01",
-            "summary": "Community standard for system state management.",
+            "summary": " Themes and program state configuration.",
             "highlights": [],
             "achievements": [
                 "Designed and maintained the main feature of the project.",
@@ -42,6 +42,24 @@
                 "Linux",
                 "Git",
                 "CSS"
+            ]
+        },
+        {
+            "name": "Gentoo Community Repository",
+            "position": "Contributor",
+            "location_type": "Remote",
+            "location": "United States",
+            "url": "https://github.com/gentoo/guru",
+            "startDate": "2024-01-01",
+            "endDate": "2024-01-01",
+            "summary": "GURU: Ebuild repository of new packages maintained collaboratively by users.",
+            "highlights": [],
+            "achievements": [
+                "Maintain and update packages."
+            ],
+            "skills": [
+                "Linux",
+                "Git"
             ]
         },
         {
@@ -78,7 +96,8 @@
                 "Yaml"
             ]
         },
-{
+
+        {
             "name": "Code Racer",
             "position": "Contributor",
             "location_type": "Remote",
@@ -90,6 +109,7 @@
             "highlights": [],
             "achievements": [
                 "580+ forks",
+                "700+ stars",
                 "Designed and maintained the main feature of the project.",
                 "Created tasks and issues, cleared blocking issues, reviewed code, merged pull requests, created complex features."
             ],
