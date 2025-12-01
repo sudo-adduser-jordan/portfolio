@@ -27,7 +27,7 @@
         {
             
             "name": "Linux Themes",
-            "position": "Owner",
+            "position": "Creator",
             "location_type": "Remote",
             "location": "United States",
             "url": "https://linuxthemes.org",
@@ -47,7 +47,7 @@
         },
         {
             "name": "Gentoo Community Repository",
-            "position": "Contributor",
+            "position": "Volunteer",
             "location_type": "Remote",
             "location": "United States",
             "url": "https://github.com/gentoo/guru",
@@ -84,7 +84,7 @@
         {
             "name": "Bottles",
             "url": "https://usebottles.com/app/#eveonline",
-            "position": "Contributor",
+            "position": "Maintainer",
             "location_type": "Remote",
             "location": "United States",
             "startDate": "2024-06-01",
@@ -95,29 +95,6 @@
             ],
             "skills": [
                 "Yaml"
-            ]
-        },
-
-        {
-            "name": "Code Racer",
-            "position": "Contributor",
-            "location_type": "Remote",
-            "location": "United States",
-            "url": "https://github.com/webdevcody/code-racer",
-            "startDate": "2024-01-01",
-            "endDate": "2024-01-01",
-            "summary": "Code Racer is a multiplayer coding game where developers can compete against each other to solve programming challenges in real-time.",
-            "highlights": [],
-            "achievements": [
-                "580+ forks",
-                "700+ stars",
-                "Designed and maintained the main feature of the project.",
-                "Created tasks and issues, cleared blocking issues, reviewed code, merged pull requests, created complex features."
-            ],
-            "skills": [
-                "React",
-                "Next",
-                "Tailwind"
             ]
         }
     ],
@@ -177,19 +154,18 @@
         }
     ],
     "skills": [
-        { "name": "Database Management" },
-        { "name": "Desktop Development" },
-        { "name": "Web Development" },
-        { "name": "UI Design" },
-        { "name": "UX Design" },
-        { "name": "Linux Development" },
-        { "name": "Cloud Management" },
-        { "name": "Windows Development" },
-        { "name": "Systems Administration" },
-        { "name": "Source Control" },
         { "name": "Software Development" },
+        { "name": "Web Development" },
+        { "name": "Frontend Development" },
+        { "name": "Backend Development" },
         { "name": "Desktop Development" },
         { "name": "Game Development" },
+        { "name": "UI Design" },
+        { "name": "UX Design" },
+        { "name": "Cloud Management" },
+        { "name": "Database Management" },
+        { "name": "Systems Administration" },
+        { "name": "Source Control" },
 
         { "name": "Gentoo" },
         { "name": "Vscode" },
@@ -237,7 +213,7 @@
             "description": "My personal desktop configuration.",
             "url": "https://linuxthemes.org",
             "github": "https://linuxthemes.org",
-            "skills": ["Linux", "Git", "CSS"]
+            "skills": ["Desktop"]
         },
         {
             "name": "Console Graphics Engine",
@@ -245,7 +221,7 @@
             "description": "Console 3D Graphics Engine.",
             "url": "https://github.com/sudo-adduser-jordan/console-graphics-engine",
             "github": "https://github.com/sudo-adduser-jordan/console-graphics-engine",
-            "skills": ["CPP17"]
+            "skills": ["Game"]
 
         },
         {
@@ -254,7 +230,7 @@
             "description": "A website that allows you to visualize the common sorting and path finding algorithms.",
             "url": "https://computer-algorithm-visualizer.vercel.app/",
             "github": "https://computer-algorithm-visualizer.vercel.app/",
-            "skills": ["HTML", "CSS", "JavaScript" ]
+            "skills": ["Frontend"]
         },
         {
             "name": "Proto Hackers",
@@ -262,7 +238,7 @@
             "description": "Java protohackers solutions with tests.",
             "url": "https://protohackers.com",
             "github": "https://github.com/sudo-adduser-jordan/protohackers",
-            "skills": [ "Java", "Gradle" ]
+            "skills": [ "Backend"]
 
         }
 
