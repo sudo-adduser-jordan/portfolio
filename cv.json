@@ -226,8 +226,8 @@
             "name": "Algorithm Visualizer",
             "isActive": true,
             "description": "A website that allows you to visualize the common sorting and path finding algorithms.",
-            "url": "https://computer-algorithm-visualizer.vercel.app/",
-            "github": "https://computer-algorithm-visualizer.vercel.app/",
+            "url": "https://sudo-adduser-jordan.github.io/algorithm-visualizer",
+            "github": "https://github.com/sudo-adduser-jordan/algorithm-visualizer",
             "skills": ["Frontend"]
         },
         {
