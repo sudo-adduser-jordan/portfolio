@@ -238,7 +238,14 @@
             "github": "https://github.com/sudo-adduser-jordan/protohackers",
             "skills": [ "Backend"]
 
+        },
+        {
+            "name": "Stroke Prediction",
+            "isActive": true,
+            "description": "Stroke prediction using machine learning.",
+            "url": "https://stroke-prediction-sklearn.streamlit.app/",
+            "github": "https://github.com/sudo-adduser-jordan/stroke-prediction",
+            "skills": [ "Machine Learning","Healthcare"]
         }
-
     ]
 }
