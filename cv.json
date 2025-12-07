@@ -24,47 +24,29 @@
         ]
     },
     "work": [
-        {
-            
-            "name": "Linux Themes",
-            "position": "Creator",
-            "location_type": "Remote",
-            "location": "United States",
-            "url": "https://linuxthemes.org",
-            "startDate": "2025-02-01",
-            "endDate": "2025-02-01",
-            "summary": " Themes and program state configuration.",
-            "highlights": [],
-            "achievements": [
-                "Designed and maintained the main feature of the project.",
-                "Created tasks and issues, cleared blocking issues, reviewed code, merged pull requests, created complex features."
-            ],
-            "skills": [
-                "Linux",
-                "CSS"
-            ]
-        },
+        
         {
             "name": "Gentoo Community Repository",
-            "position": "Volunteer",
+            "position": "Package Maintiner",
             "location_type": "Remote",
             "location": "United States",
             "url": "https://github.com/gentoo/guru",
-            "startDate": "2024-01-01",
-            "endDate": "2024-01-01",
+            "startDate": "2025-02-01",
+            "endDate": "2025-02-01",
             "summary": "GURU: Ebuild repository of new packages maintained collaboratively by users.",
             "highlights": [],
             "achievements": [
                 "Maintain and update packages."
             ],
             "skills": [
-                "Linux"
+                "Linux",
+                "Desktop"
             ]
         },
         {
             "name": "Runelite",
             "url": "https://runelite.net/plugin-hub/show/skull-prevention-reminder",
-            "position": "Contributor",
+            "position": "Plugin Maintainer",
             "location_type": "Remote",
             "location": "United States",
             "startDate": "2024-06-01",
@@ -76,7 +58,8 @@
             ],
             "skills": [
                 "Java",
-                "InteliJ"
+                "InteliJ",
+                "Game"
             ]
         },
         {
@@ -92,7 +75,10 @@
                 "Active users"
             ],
             "skills": [
-                "Yaml"
+                "Python",
+                "Yaml",
+                "Linux",
+                "Desktop"
             ]
         }
     ],
@@ -163,7 +149,6 @@
         { "name": "Cloud Management" },
         { "name": "Database Management" },
         { "name": "Systems Administration" },
-        { "name": "Source Control" },
 
         { "name": "Gentoo" },
         { "name": "Vscode" },
