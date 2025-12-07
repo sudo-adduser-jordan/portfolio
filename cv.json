@@ -211,16 +211,15 @@
             "description": "My personal desktop configuration.",
             "url": "https://linuxthemes.org",
             "github": "https://linuxthemes.org",
-            "skills": ["Desktop"]
+            "skills": ["Desktop", "Frontend"]
         },
-        {
-            "name": "Console Graphics Engine",
+                {
+            "name": "Tripwire",
             "isActive": true,
-            "description": "Console 3D Graphics Engine.",
-            "url": "https://github.com/sudo-adduser-jordan/console-graphics-engine",
-            "github": "https://github.com/sudo-adduser-jordan/console-graphics-engine",
-            "skills": ["Game"]
-
+            "description": "Tripwire is an open source wormhole mapping tool, hosted for free to the public, built for use with EVE Online.",
+            "url": "https://tripwire.gigalixirapp.com/",
+            "github": "https://github.com/sudo-adduser-jordan/tripwire",
+            "skills": [ "Full Stack","Cloud", "Game"]
         },
         {
             "name": "Algorithm Visualizer",
@@ -228,15 +227,15 @@
             "description": "A website that allows you to visualize the common sorting and path finding algorithms.",
             "url": "https://sudo-adduser-jordan.github.io/algorithm-visualizer",
             "github": "https://github.com/sudo-adduser-jordan/algorithm-visualizer",
-            "skills": ["Frontend"]
+            "skills": ["Frontend", "Algorithms"]
         },
         {
             "name": "Proto Hackers",
             "isActive": true,
-            "description": "Java protohackers solutions with tests.",
+            "description": "Server networking protocol challenges with solutions and tests.",
             "url": "https://protohackers.com",
             "github": "https://github.com/sudo-adduser-jordan/protohackers",
-            "skills": [ "Backend"]
+            "skills": [ "Backend", "System", "Cloud"]
 
         },
         {
@@ -246,6 +245,15 @@
             "url": "https://stroke-prediction-sklearn.streamlit.app/",
             "github": "https://github.com/sudo-adduser-jordan/stroke-prediction",
             "skills": [ "Machine Learning","Healthcare"]
+        },
+        {
+            "name": "Console Graphics Engine",
+            "isActive": true,
+            "description": "Console 3D Graphics Engine.",
+            "url": "https://github.com/sudo-adduser-jordan/console-graphics-engine",
+            "github": "https://github.com/sudo-adduser-jordan/console-graphics-engine",
+            "skills": ["Game", "Graphics"]
+
         }
     ]
 }
