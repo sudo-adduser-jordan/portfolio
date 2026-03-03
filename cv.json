@@ -6,14 +6,14 @@
         "email": "sudo.sendmail.jordan@gmail.com",
         "phone": "+1 555-555-5555",
         "url": "https://github.com/sudo-adduser-jordan",
-        "summary": "Self starter with a strong aptitude to learn and solve challenges. Ability to further education as needed. Seeking remote work opportunities within the United States.",
+        "summary": "Self starter with a strong aptitude to learn and solve challenges. Ability to further education as needed. Seeking remote work opportunities.",
         "theme": "blue",
         "location": {
             "address": "",
             "postalCode": "",
             "city": "Remote",
-            "countryCode": "US",
-            "region": "United States"
+            "countryCode": "",
+            "region": ""
         },
         "profiles": [
             {
@@ -29,7 +29,7 @@
             "name": "Gentoo Community Repository",
             "position": "Package Maintiner",
             "location_type": "Remote",
-            "location": "United States",
+            "location": "Remote",
             "url": "https://github.com/gentoo/guru",
             "startDate": "2025-02-01",
             "endDate": "2025-02-01",
@@ -48,7 +48,7 @@
             "url": "https://runelite.net/plugin-hub/show/skull-prevention-reminder",
             "position": "Plugin Maintainer",
             "location_type": "Remote",
-            "location": "United States",
+            "location": "Remote",
             "startDate": "2024-06-01",
             "endDate": "2024-06-01",
             "summary": "Java plugin created with Intellij tooling and the Runelite SDK. A visual indicator of skull prevention status.",
@@ -67,7 +67,7 @@
             "url": "https://usebottles.com/app/#eveonline",
             "position": "Program Maintainer",
             "location_type": "Remote",
-            "location": "United States",
+            "location": "Remote",
             "startDate": "2024-06-01",
             "endDate": "2024-12-01",
             "summary": "A small but useful contribution to the official Bottles programs. Eve Online launcher.",
