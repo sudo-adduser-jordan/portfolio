@@ -11,9 +11,9 @@
         "location": {
             "address": "",
             "postalCode": "",
-            "city": "Remote",
+            "city": "",
             "countryCode": "",
-            "region": ""
+            "region": "Remote"
         },
         "profiles": [
             {
