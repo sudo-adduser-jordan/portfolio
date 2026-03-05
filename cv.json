@@ -2,7 +2,7 @@
     "basics": {
         "name": "Jordan",
         "label": "Software Developer",
-        "image": "/portfolio/me_avatar.png",
+        "image": "/portfolio/bucket.png",
         "email": "sudo.sendmail.jordan@gmail.com",
         "phone": "+1 555-555-5555",
         "url": "https://github.com/sudo-adduser-jordan",
@@ -24,12 +24,11 @@
         ]
     },
     "work": [
-        
         {
             "name": "Gentoo Community Repository",
             "position": "Package Maintiner",
-            "location_type": "Remote",
-            "location": "Remote",
+            "location_type": "",
+            "location": "",
             "url": "https://github.com/gentoo/guru",
             "startDate": "2025-02-01",
             "endDate": "2025-02-01",
@@ -47,8 +46,8 @@
             "name": "Runelite",
             "url": "https://runelite.net/plugin-hub/show/skull-prevention-reminder",
             "position": "Plugin Maintainer",
-            "location_type": "Remote",
-            "location": "Remote",
+            "location_type": "",
+            "location": "",
             "startDate": "2024-06-01",
             "endDate": "2024-06-01",
             "summary": "Java plugin created with Intellij tooling and the Runelite SDK. A visual indicator of skull prevention status.",
@@ -66,8 +65,8 @@
             "name": "Bottles",
             "url": "https://usebottles.com/app/#eveonline",
             "position": "Program Maintainer",
-            "location_type": "Remote",
-            "location": "Remote",
+            "location_type": "",
+            "location": "",
             "startDate": "2024-06-01",
             "endDate": "2024-12-01",
             "summary": "A small but useful contribution to the official Bottles programs. Eve Online launcher.",
